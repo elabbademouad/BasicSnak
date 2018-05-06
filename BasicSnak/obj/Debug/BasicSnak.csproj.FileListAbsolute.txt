@@ -1,0 +1,31 @@
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\bin\Debug\BasicSnak.exe.config
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\bin\Debug\BasicSnak.exe
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\bin\Debug\BasicSnak.pdb
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\obj\Debug\MainWindow.g.cs
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\obj\Debug\SceneView.g.cs
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\obj\Debug\App.g.cs
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\obj\Debug\BasicSnak_MarkupCompile.cache
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\obj\Debug\BasicSnak_MarkupCompile.lref
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\obj\Debug\MainWindow.baml
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\obj\Debug\SceneView.baml
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\obj\Debug\BasicSnak.g.resources
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\obj\Debug\BasicSnak.Properties.Resources.resources
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\obj\Debug\BasicSnak.csproj.GenerateResource.Cache
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\obj\Debug\BasicSnak.exe
+C:\Users\Mouad-PC\Documents\Visual Studio 2017\Projects\BasicSnak\BasicSnak\obj\Debug\BasicSnak.pdb
+D:\Projects\BasicSnak\BasicSnak\obj\Debug\MainWindow.g.cs
+D:\Projects\BasicSnak\BasicSnak\obj\Debug\App.g.cs
+D:\Projects\BasicSnak\BasicSnak\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\BasicSnak\BasicSnak\obj\Debug\BasicSnak_MarkupCompile.cache
+D:\Projects\BasicSnak\BasicSnak\obj\Debug\BasicSnak_MarkupCompile.lref
+D:\Projects\BasicSnak\BasicSnak\obj\Debug\BasicSnak.exe
+D:\Projects\BasicSnak\BasicSnak\obj\Debug\BasicSnak.pdb
+D:\Projects\BasicSnak\BasicSnak\bin\Debug\BasicSnak.exe.config
+D:\Projects\BasicSnak\BasicSnak\bin\Debug\BasicSnak.exe
+D:\Projects\BasicSnak\BasicSnak\bin\Debug\BasicSnak.pdb
+D:\Projects\BasicSnak\BasicSnak\obj\Debug\MainWindow.baml
+D:\Projects\BasicSnak\BasicSnak\obj\Debug\BasicSnak.g.resources
+D:\Projects\BasicSnak\BasicSnak\obj\Debug\BasicSnak.Properties.Resources.resources
+D:\Projects\BasicSnak\BasicSnak\obj\Debug\BasicSnak.csproj.GenerateResource.Cache
+D:\Projects\BasicSnak\BasicSnak\obj\Debug\BasicSnak.csprojResolveAssemblyReference.cache

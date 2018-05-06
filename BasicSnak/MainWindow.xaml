@@ -1,0 +1,47 @@
+﻿<Window x:Class="BasicSnak.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BasicSnak"
+        mc:Ignorable="d"
+        Title="BasicSnake" Height="698.567" Width="647.433"  
+        >
+    <Window.Resources>
+        <local:StyleConverter x:Key="styleConverter" />
+        <local:BoolToVisiblity x:Key="boolToVisiblity"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Border    Height="600" Width="600">
+            <ItemsControl Padding="0" ItemsSource="{Binding Path=Scene}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel></WrapPanel>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Margin="0" Width="20" Height="20"                            
+                          Background="{Binding Path=Style, Converter={StaticResource styleConverter}}"
+                          
+                          >
+                            <Border BorderBrush="Gray" BorderThickness="0.5"></Border>
+                        </Grid>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </Border>
+        <DockPanel Margin="0"  Grid.Row="1" Focusable="False">
+            <Button Margin="4" FontSize="15" FontWeight="Bold" Name="btnNewgame" Click="btnNewgame_Click">New Game</Button>
+            <Button Margin="4" Name="btnPause" FontSize="14" FontWeight="Bold"  Click="btnPause_Click">Pause</Button>
+            <Label  Foreground="Red" Visibility="{Binding Path=GameOver, Converter={StaticResource boolToVisiblity}}" FontSize="14" FontWeight="Bold" Margin="2" HorizontalAlignment="Right"   Content="Game Over"></Label>
+            <Label DockPanel.Dock="Right" Foreground="Red" FontWeight="Bold" Margin="2" HorizontalAlignment="Right"   Content="{Binding Path=Score}"></Label>
+            <Label DockPanel.Dock="Right" FontWeight="Bold" Margin="2" HorizontalAlignment="Right" Width="50"  Content="Score :"></Label>
+        </DockPanel>
+    </Grid>
+</Window>
